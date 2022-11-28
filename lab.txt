@@ -1,0 +1,6 @@
+hello git
+int main()
+{
+int a
+print("a");
+}
