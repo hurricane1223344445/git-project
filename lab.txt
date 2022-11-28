@@ -4,3 +4,6 @@ int main()
 int a
 print("a");
 }
+ 
+
+c code
